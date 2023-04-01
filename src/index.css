@@ -1,0 +1,54 @@
+@import 'https://necolas.github.io/normalize.css/latest/normalize.css';
+
+@font-face {
+    font-family: 'SegoeUI';
+    src: url('./assets/fonts/SegoeUI.woff') format('woff');
+}
+@font-face {
+    font-family: 'SegoeUIBold';
+    src: url('./assets/fonts/SegoeUIBold.woff') format('woff');
+}
+@font-face {
+    font-family: 'SegoeUIBoldItalic';
+    src: url('./assets/fonts/SegoeUIBoldItalic.woff') format('woff');
+}
+@font-face {
+    font-family: 'SegoeUIItalic';
+    src: url('./assets/fonts/SegoeUIItalic.woff') format('woff');
+}
+
+*::-webkit-scrollbar {
+    width: 7px;
+    height: 5px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #c4c6e7ac;
+}
+
+*::-webkit-scrollbar-thumb {
+    background: #ed1e79ab;
+    border-radius: 3px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background: #ed1e79;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'SegoeUI', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
