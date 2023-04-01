@@ -32,21 +32,27 @@ export default function Header() {
                     <div className="btns flex flex-row flex-wrap justify-around items-center">
                         <a
                             role="button"
-                            href="#"
+                            href="https://github.com/WhackDevelopment"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             class="flex flex-row flex-wrap justify-center items-center text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2"
                         >
                             <FaGithub className="center mr-2" /> Visit GitHub
                         </a>
                         <a
                             role="button"
-                            href="#"
+                            href="https://paypal.me/WhackDevelopment"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             class="flex flex-row flex-wrap justify-center items-center text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2"
                         >
                             <FaPaypal className="center mr-2" /> Visit PayPal
                         </a>
                         <a
                             role="button"
-                            href="#"
+                            href="https://discord.gg/WhackDevelopment"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             class="flex flex-row flex-wrap justify-center items-center text-white bg-gradient-to-r from-purple-500 via-purple-600 to-purple-700 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2"
                         >
                             <FaDiscord className="center mr-2" /> Visit Discord
