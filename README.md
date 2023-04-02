@@ -9,8 +9,8 @@
     <a href="https://paypal.me/WhackDevelopment">
         <img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" alt="PayPal">
     </a>
-    <a href="https://github.com/WhackDevelopment/.github/issues">
-        <img src="https://img.shields.io/github/issues/WhackDevelopment/.github.svg?style=for-the-badge">
+    <a href="https://github.com/WhackDevelopment/whackdevelopment-frontent/issues">
+        <img src="https://img.shields.io/github/issues/WhackDevelopment/whackdevelopment-frontent.svg?style=for-the-badge">
     </a>
     <br>
 </div>
