@@ -6,11 +6,11 @@
     <a href="https://discord.gg/WhackDevelopment">
         <img src="https://img.shields.io/discord/1075538521340776489.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
     </a>
-    <a href="https://paypal.me/WhackDevelopment">
-        <img src="https://www.paypalobjects.com/en_GB/i/btn/btn_donate_SM.gif" alt="PayPal">
+    <a target="_blank" href="https://paypal.me/WhackDevelopment">
+        <img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal" alt="PayPal">
     </a>
-    <a href="https://github.com/WhackDevelopment/whackdevelopment-frontent/issues">
-        <img src="https://img.shields.io/github/issues/WhackDevelopment/whackdevelopment-frontent.svg?style=for-the-badge">
+    <a href="https://github.com/WhackDevelopment/whackdevelopment-frontend/issues">
+        <img src="https://img.shields.io/github/issues/WhackDevelopment/whackdevelopment-frontend.svg?style=for-the-badge">
     </a>
     <br>
 </div>
